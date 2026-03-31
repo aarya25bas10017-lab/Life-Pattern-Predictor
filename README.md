@@ -27,7 +27,7 @@ In daily life, individuals often forget essential items such as keys, wallets, c
 ## Technologies Used
 - Python 3  
 - JSON for data storage  
-- IDLE (Python IDE)  
+- IDLE (Python IDLE)  
 
 ---
 
