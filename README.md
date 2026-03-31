@@ -1,5 +1,4 @@
 # Life-Pattern-Predictor
-# Life Pattern Predictor
 
 ## Overview
 The Life Pattern Predictor is a Python-based application developed as part of the Python Essentials BYOP (Bring Your Own Project). The project focuses on analyzing human behavioral patterns related to forgetfulness and uses historical data to predict future actions.
